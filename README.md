@@ -1,2 +1,2 @@
 # hello-world
-For a tutorial
+Well this tutorial seems too easy...
